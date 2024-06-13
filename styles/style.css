@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
 
-#luminavi-heading {
+h1 {
     font-family: "Major Mono Display", monospace;
     font-weight: 400;
 }
