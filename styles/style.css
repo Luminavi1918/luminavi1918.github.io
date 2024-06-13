@@ -3,15 +3,10 @@
 h1 {
     font-family: "Major Mono Display", monospace;
     font-weight: 400;
-}
-
-header img {
-    float: left;
-    width: 100px;
-    height: 100px;
-    background: #555;
+    color: white;
 }
 
 body {
     font-family: sans-serif;
+    background-color: black;
 }
