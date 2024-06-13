@@ -5,6 +5,13 @@ h1 {
     font-weight: 400;
 }
 
+header img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+}
+
 body {
     font-family: sans-serif;
 }
